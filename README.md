@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @abarchan
+- 👀 I’m interested in OOP and gameDev
+- 🌱 I’m currently learning C#
+- 💞️ I'm a junior who wants to gain experience from other programmers and improve my code
